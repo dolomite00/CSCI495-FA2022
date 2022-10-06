@@ -8,6 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		DD2AA0A628EEA14200CCD68B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD2AA0A528EEA14200CCD68B /* main.swift */; };
+		DD2AA0AD28EEA1AD00CCD68B /* P001.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD2AA0AC28EEA1AD00CCD68B /* P001.swift */; };
+		DD2AA0AF28EEA1C200CCD68B /* P002.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD2AA0AE28EEA1C200CCD68B /* P002.swift */; };
+		DD2AA0B128EEA1D000CCD68B /* P003.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD2AA0B028EEA1D000CCD68B /* P003.swift */; };
+		DD2AA0B328EEA1DD00CCD68B /* P004.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD2AA0B228EEA1DD00CCD68B /* P004.swift */; };
+		DD2AA0B528EEA1F200CCD68B /* P005.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD2AA0B428EEA1F200CCD68B /* P005.swift */; };
+		DD2AA0B728EEA20100CCD68B /* P006.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD2AA0B628EEA20100CCD68B /* P006.swift */; };
+		DD2AA0B928EEA20C00CCD68B /* P007.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD2AA0B828EEA20C00CCD68B /* P007.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +32,13 @@
 /* Begin PBXFileReference section */
 		DD2AA0A228EEA14200CCD68B /* CSCI495-FA2022 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "CSCI495-FA2022"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD2AA0A528EEA14200CCD68B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		DD2AA0AC28EEA1AD00CCD68B /* P001.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P001.swift; sourceTree = "<group>"; };
+		DD2AA0AE28EEA1C200CCD68B /* P002.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P002.swift; sourceTree = "<group>"; };
+		DD2AA0B028EEA1D000CCD68B /* P003.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P003.swift; sourceTree = "<group>"; };
+		DD2AA0B228EEA1DD00CCD68B /* P004.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P004.swift; sourceTree = "<group>"; };
+		DD2AA0B428EEA1F200CCD68B /* P005.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P005.swift; sourceTree = "<group>"; };
+		DD2AA0B628EEA20100CCD68B /* P006.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P006.swift; sourceTree = "<group>"; };
+		DD2AA0B828EEA20C00CCD68B /* P007.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = P007.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +72,13 @@
 			isa = PBXGroup;
 			children = (
 				DD2AA0A528EEA14200CCD68B /* main.swift */,
+				DD2AA0AC28EEA1AD00CCD68B /* P001.swift */,
+				DD2AA0AE28EEA1C200CCD68B /* P002.swift */,
+				DD2AA0B028EEA1D000CCD68B /* P003.swift */,
+				DD2AA0B228EEA1DD00CCD68B /* P004.swift */,
+				DD2AA0B428EEA1F200CCD68B /* P005.swift */,
+				DD2AA0B628EEA20100CCD68B /* P006.swift */,
+				DD2AA0B828EEA20C00CCD68B /* P007.swift */,
 			);
 			path = "CSCI495-FA2022";
 			sourceTree = "<group>";
@@ -120,7 +141,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DD2AA0B528EEA1F200CCD68B /* P005.swift in Sources */,
+				DD2AA0B128EEA1D000CCD68B /* P003.swift in Sources */,
+				DD2AA0AF28EEA1C200CCD68B /* P002.swift in Sources */,
+				DD2AA0AD28EEA1AD00CCD68B /* P001.swift in Sources */,
+				DD2AA0B928EEA20C00CCD68B /* P007.swift in Sources */,
+				DD2AA0B728EEA20100CCD68B /* P006.swift in Sources */,
 				DD2AA0A628EEA14200CCD68B /* main.swift in Sources */,
+				DD2AA0B328EEA1DD00CCD68B /* P004.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
